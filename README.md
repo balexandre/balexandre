@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: All my 3 kids, the dog and the wife have birthdays in August 😂
 
 
-![Bruno's github stats](https://github-readme-stats.vercel.app/api?username=balexandre&show_icons=true)
+![Bruno's github stats](https://github-readme-stats.vercel.app/api?username=balexandre&show_icons=true&count_private=true)
 
 ![Bruno's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=balexandre)
 
